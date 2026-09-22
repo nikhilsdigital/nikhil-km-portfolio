@@ -59,7 +59,7 @@ export default function PricingPage() {
         kicker="Pricing"
         title="Clear plans, no surprise invoices"
         body="Three ways to work together. Start with a one-time build, or keep me on a monthly retainer to run the marketing continuously."
-        malayalam="വില സുതാര്യമാണ് — ഒളിഞ്ഞ ചാർജുകൾ ഇല്ല."
+        malayalam="Transparent pricing — no hidden charges."
       />
 
       <section className="section">

@@ -337,7 +337,7 @@ export function CTA({ title, body }) {
               <h2 className="h1 mx-auto max-w-[24ch] font-semibold">{title}</h2>
               <p className="mx-auto mt-5 max-w-xl text-muted">{body}</p>
               <p className="mal mx-auto mt-3 text-[0.9rem] text-faint">
-                മലയാളത്തിൽ സംസാരിക്കാം — ഒരു കോൾ മതി.
+                Let’s talk in Malayalam — just one call is all it takes.
               </p>
               <div className="mt-9 flex flex-wrap justify-center gap-3">
                 <Link href="/contact" className="btn-primary">

@@ -126,7 +126,7 @@ export default function AboutPage() {
             </div>
             <div className="card mt-6 p-7">
               <p className="mal text-[0.95rem] leading-loose text-muted">
-                “നല്ല ഡിസൈൻ മാത്രം പോരാ — ആളുകൾ കണ്ടെത്തണം, വിശ്വസിക്കണം, വിളിക്കണം. അതാണ് എന്റെ ജോലി.”
+               “GOOD DESIGN ALONE ISN’T ENOUGH — PEOPLE NEED TO FIND YOU, TRUST YOU, AND CONTACT YOU. THAT’S MY JOB.”
               </p>
               <p className="mt-4 font-display text-[0.95rem] font-semibold">{site.name}</p>
               <p className="meta mt-1">{site.city}</p>

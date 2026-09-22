@@ -39,7 +39,7 @@ export default function PortfolioPage() {
         kicker="Portfolio"
         title="Work you can measure, not just scroll through"
         body="Six representative projects across e-commerce, hospitality, healthcare, real estate and retail — with the numbers that came after launch."
-        malayalam="ഫലങ്ങൾ സംസാരിക്കട്ടെ — ഓരോ പ്രോജക്ടിനും അളക്കാവുന്ന ഫലങ്ങൾ."
+        malayalam="Let the results speak — measurable results for every project."
       />
 
       <section className="relative overflow-hidden border-b border-line bg-surface2/40">

@@ -38,7 +38,7 @@ export default function ServicesPage() {
         kicker="Services"
         title="One partner for the website and the traffic that reaches it"
         body="Take a single service or the whole stack. Either way you get the same thing: clear scope, fixed pricing and reporting you can read without a marketing degree."
-        malayalam="വെബ്‌സൈറ്റ്, SEO, സോഷ്യൽ മീഡിയ, പെയ്ഡ് പ്രമോഷൻ — എല്ലാം ഒരു കുടക്കീഴിൽ."
+        malayalam="Website, SEO, social media, paid promotions — everything under one roof."
       />
 
       {/* Detailed services */}

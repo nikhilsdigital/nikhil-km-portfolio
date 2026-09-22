@@ -58,7 +58,7 @@ export default function ContactPage() {
         kicker="Contact"
         title="Tell me what you want to grow"
         body="Fill the form and it opens a pre-filled WhatsApp chat, or just call. Either way you reach me directly — not a call centre."
-        malayalam="വിളിക്കാം, മെസ്സേജ് ചെയ്യാം — മലയാളത്തിൽ സംസാരിക്കാം."
+        malayalam="Call me or send me a message — let’s talk in Malayalam."
       />
 
       <section className="section">
